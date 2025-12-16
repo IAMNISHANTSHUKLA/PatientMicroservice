@@ -190,3 +190,4 @@ This repository is intended for:
 ## Summary
 
 The `java-spring-microservices` repository demonstrates a complete, end-to-end microservices ecosystem built with Java and Spring. It emphasizes architectural clarity, service independence, and real-world communication patterns, making it a strong foundation for understanding and building scalable distributed systems.
+
